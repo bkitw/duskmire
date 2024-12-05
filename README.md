@@ -1,4 +1,4 @@
-# Duskmire Forum 🌒  
+# [EN] Duskmire Forum 🌒  
 
 Duskmire is a small, independent forum designed to bring together a tiny community of people to share thoughts, discuss ideas, and connect over various topics.  
 
@@ -26,7 +26,7 @@ Duskmire is in the early stages of development, with its functional framework an
 
 -------
 
-# Duskmire Forum 🌒  
+# [UA] Duskmire Forum 🌒  
 
 Duskmire — це маленький незалежний форум, створений для об’єднання крихітної спільноти людей, які хочуть ділитися думками, обговорювати ідеї та спілкуватися на різноманітні теми.  
 
